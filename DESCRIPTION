@@ -1,0 +1,12 @@
+Package: shinytrain
+Title: Training set of shiny application
+Version: 0.0.0.9000
+Authors@R: 
+    person("Takahiro"", "Hashimoto", , "t.hashy13@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Create shiny application and deploy it.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.0.0
